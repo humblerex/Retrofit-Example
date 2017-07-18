@@ -9,8 +9,8 @@ API: http://api.tutorialheap.com/worldpopulation/population
 
 Used <a href="https://github.com/square/retrofit">Retrofit</a> to fetch data.
 
-![alt text](http://api.tutorialheap.com/worldpopulation/images/1)
-![alt text](http://api.tutorialheap.com/worldpopulation/images/2)
+![1](http://api.tutorialheap.com/worldpopulation/images/1)
+![2](http://api.tutorialheap.com/worldpopulation/images/2)
 
 
 Download the App and check the result.
