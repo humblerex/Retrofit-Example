@@ -9,5 +9,7 @@ API: http://api.tutorialheap.com/worldpopulation/population
 
 Used <a href="https://github.com/square/retrofit">Retrofit</a> to fetch data.
 
+Check tutorial of this app [here](http://tutorialheap.com/android-json-parsing-using-retrofit-http-library/) : 
+
 
 Download the App and check the result.
